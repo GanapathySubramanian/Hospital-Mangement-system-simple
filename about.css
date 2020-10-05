@@ -1,0 +1,13 @@
+
+  body {
+
+        background:url(mountain.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  .container {
+    padding: 80px 120px;
+  }
+p{
+    color: white;
+}

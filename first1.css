@@ -1,0 +1,22 @@
+body{
+    background:url(image1.jpg);
+    background-size: cover;
+    
+}
+.container {
+  position: relative;
+  text-align: center;
+  color:BLUE;
+margin-top:100px;
+    background-color:transparent;
+}
+
+.container1{
+    height: 50px;
+    margin-bottom: 
+}
+.top {
+    width: 100%;
+    background-color:yellow;
+    text-align: center;
+}

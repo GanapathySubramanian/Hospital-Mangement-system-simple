@@ -1,0 +1,22 @@
+body{
+     background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(image2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+a{
+    color: #fff;
+   
+}
+h1{
+    color:#fff;
+    margin-top:5px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.container1{
+  position: relative;
+  color:#fff;
+margin-top:100px;
+    background-color:transparent;
+}
+
